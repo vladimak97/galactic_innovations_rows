@@ -1,4 +1,4 @@
-**Exercise 1**
+#Exercise 1
 
 **Disclaimer: The data presented in this exercise is purely fictive and crafted for educational purposes only.**
 
