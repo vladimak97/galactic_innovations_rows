@@ -10,9 +10,6 @@ Disclaimer: The data presented in this exercise is purely fictive and crafted fo
 
 4. Next, in the "Company" sheet, fill in the following information starting from cell A1. You'll be entering data about three companies across three columns and four rows:
 
-Name        | Market Cap     | Year
-Microsoft   | $3.13 trillion | 2024
-Apple       | $2.65 trillion | 2024
-Nvidia      | $2.26 trillion | 2024
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17427131%2Fb55572ac2c10021020318ba1e1abed41%2F_2024-04-10_140753740.png?generation=1712750874461348&alt=media)
 
 5. What is the number of pages in the book listed in row B20? It's 589 pages.
