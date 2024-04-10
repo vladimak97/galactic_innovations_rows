@@ -1,13 +1,18 @@
-# galactic_innovations_rows
+# Exercise 2
 
-"Calculation of the total number of entries"
+Disclaimer: The data presented in this exercise is purely fictive and crafted for educational purposes only.
 
-**Exercise 1**
+1. Start by creating two new sheets in your workbook, naming them "Books" and "Company".
 
-**Disclaimer: The data presented in this exercise is purely fictive and crafted for educational purposes only.**
+2. Then, switch to the "Books" sheet that you created. You need to open another Excel file named "books_dataset.xlsx". With both Excel files open, copy all the data from columns A to I from the dataset and paste it as values into your "Books" sheet.
 
-1.Open the spreadsheet titled "galactic_innovations_rows.xlsx."
+3. Now, adjust the width of all columns to 15. Also, make sure the first letter of each column header is capitalized, with the remaining letters in lowercase. You can achieve this by using the formula =PROPER(cell).
 
-2.Ascertain the total number of rows in column A, counting the header as well.
+4. Next, in the "Company" sheet, fill in the following information starting from cell A1. You'll be entering data about three companies across three columns and four rows:
 
-**Answer: 125**
+Name        | Market Cap     | Year
+Microsoft   | $3.13 trillion | 2024
+Apple       | $2.65 trillion | 2024
+Nvidia      | $2.26 trillion | 2024
+
+5. What is the number of pages in the book listed in row B20? It's 589 pages.
